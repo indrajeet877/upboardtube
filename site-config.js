@@ -52,19 +52,25 @@ window.TUBE_CONFIG = {
     {
       id: "jee",
       name: "JEETube",
-      sub: "IIT-JEE",
+      sub: "IIT-JEE · CETs",
       url: "https://indrajeet877.github.io/jeetube/",
     },
     {
       id: "neet",
       name: "NEETTube",
-      sub: "NEET UG",
+      sub: "NEET UG · Medical",
       url: "https://indrajeet877.github.io/neettube/",
+    },
+    {
+      id: "board",
+      name: "BoardTube",
+      sub: "CBSE · ISC · State Boards",
+      url: "https://indrajeet877.github.io/boardtube/",
     },
     {
       id: "olympiad",
       name: "OlympiadTube",
-      sub: "IOQM · NSEP · INOI",
+      sub: "IMO · IOQM · AIME · INOI",
       url: "https://indrajeet877.github.io/olympiadtube/",
     },
     {
